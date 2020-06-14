@@ -18,7 +18,7 @@ targets:
 
 dependencies:
   protobuf:
-    github: jeromegn/protobuf.cr
+    github: vicobill/protobuf.cr
     branch: master
 
 license: MIT
